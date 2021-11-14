@@ -29,17 +29,12 @@ Visit my official site: <a href="https://www.bangloss.com" target="_blank">https
 
 Screenshots:
 
-<img src="https://github.com/sfaragy/VippsPaymentGatewayForOpenCart/blob/main/images/vipps4.png">
-<img src="https://github.com/sfaragy/VippsPaymentGatewayForOpenCart/blob/main/images/vipps5.png">
+<img src="https://github.com/sfaragy/Newsletter-signup-popup-for-OpenCart/blob/main/images/bangloss-footer-banner-for-module.png">
+<img src="https://github.com/sfaragy/Newsletter-signup-popup-for-OpenCart/blob/main/images/opencart_news_letter_popup_large.jpg">
 
 
-<img src="https://github.com/sfaragy/VippsPaymentGatewayForOpenCart/blob/main/images/vipps1.png">
-<img src="https://github.com/sfaragy/VippsPaymentGatewayForOpenCart/blob/main/images/vipps.png">
-
-
-
-
-<img src="https://github.com/sfaragy/VippsPaymentGatewayForOpenCart/blob/main/images/vipps3.png">
+<img src="https://github.com/sfaragy/Newsletter-signup-popup-for-OpenCart/blob/main/images/opencart_news_letter_popup_small.jpg">
+<img src="https://github.com/sfaragy/Newsletter-signup-popup-for-OpenCart/blob/main/images/1.png">
 
 
 
